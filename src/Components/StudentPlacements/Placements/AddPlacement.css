@@ -1,0 +1,82 @@
+.add-placement-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('../../../Assets/placements.jpg') no-repeat center center;
+    background-size: cover;
+  }
+  
+  .add-placement-form-box {
+    width: 500px; /* Increased width for more fields */
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-placement-form-box h2 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .add-placement-form-box form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-placement-form-box form div {
+    margin-bottom: 15px;
+  }
+  
+  .add-placement-form-box form label {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  .add-placement-form-box form input,
+  .add-placement-form-box form textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .add-placement-form-box form textarea {
+    height: 100px; /* Adjust height for description */
+    resize: vertical;
+  }
+  
+  .add-placement-form-box form button {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    background: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .add-placement-form-box form button:hover {
+    background: #0056b3;
+  }
+  
+  .add-placement-form-box .error {
+    color: #d9534f;
+    font-size: 0.9em;
+    margin-bottom: 15px;
+  }
+  
+  .add-placement-form-box .success {
+    color: #5bc0de;
+    font-size: 0.9em;
+    margin-bottom: 15px;
+  }
+  

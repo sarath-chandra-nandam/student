@@ -1,0 +1,58 @@
+.departments {
+  padding: 20px;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+  background: url('../../Assets/dep-back.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+.departments h1 {
+  text-align: center;
+  color: #e7e7e7;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.departments ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column; 
+  gap: 20px; 
+  width: 200px;
+}
+
+.departments li {
+  margin: 0;
+}
+
+.departments li a {
+  display: block;
+  padding: 15px 20px; /* Adjust padding for better appearance */
+  font-size: 1.2rem;
+  color: #fff;
+  background-color: #ff9c81;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.departments li a:hover {
+  background-color: #92faff;
+  transform: scale(1.05);
+}
+
+.departments li a:active {
+  background-color: #003d80;
+}
+
+@media (max-width: 768px) {
+  .departments h1 {
+    font-size: 2rem;
+  }
+
+  .departments li a {
+    font-size: 1rem;
+    padding: 10px 15px; /* Adjust padding for smaller screens */
+  }
+}

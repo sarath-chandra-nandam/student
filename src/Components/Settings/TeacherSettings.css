@@ -1,0 +1,49 @@
+.teacher-settings-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ff0a0288;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .teacher-settings-container h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .teacher-settings-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .teacher-settings-form input[type="text"],
+  .teacher-settings-form input[type="email"],
+  .teacher-settings-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .teacher-settings-form textarea {
+    height: 100px;
+  }
+  
+  .teacher-settings-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .teacher-settings-form button:hover {
+    background-color: #0056b3;
+  }
+  

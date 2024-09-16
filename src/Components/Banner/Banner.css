@@ -1,0 +1,41 @@
+.banner-container {
+    padding-top: 75px;
+    display: flex;
+    background: linear-gradient(180deg ,#ff777781 ,#fde1ff 60%);
+  }
+  
+  .content {
+    flex: 1;
+    padding: 50px;
+    /* background-color: #fdaeae; */
+    
+  }
+
+  .content button{
+    width: 400px;
+  }
+  
+  .images {
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+  }
+  
+  .images img {
+    width: 200px;
+    margin-bottom: 20px;
+  }
+  
+  .image-group {
+    display: flex;
+  }
+  
+  .image-group img {
+    width: 100px;
+    margin-right: 20px;
+  }
+  .image1
+  {
+    background: transparent;
+  }
+  

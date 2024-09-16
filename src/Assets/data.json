@@ -1,0 +1,379 @@
+{
+  "departments": [
+    {
+      "name": "Computer Science",
+      "id": "cs",
+      "staff": [
+        {
+          "name": "Mynton Moore",
+          "profession": "Frontend Developer",
+          "location": "Lima - Perú",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/mynton",
+          "dribbbleUrl": "https://dribbble.com/mynton",
+          "githubUrl": "https://github.com/mynton"
+        },
+        {
+          "name": "Jane Doe",
+          "profession": "Backend Developer",
+          "location": "New York - USA",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/janedoe",
+          "dribbbleUrl": "https://dribbble.com/janedoe",
+          "githubUrl": "https://github.com/janedoe"
+        },
+        {
+          "name": "Alice Johnson",
+          "profession": "Full Stack Developer",
+          "location": "San Francisco - USA",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/alicejohnson",
+          "dribbbleUrl": "https://dribbble.com/alicejohnson",
+          "githubUrl": "https://github.com/alicejohnson"
+        },
+        {
+          "name": "Bob Smith",
+          "profession": "Software Engineer",
+          "location": "London - UK",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/bobsmith",
+          "dribbbleUrl": "https://dribbble.com/bobsmith",
+          "githubUrl": "https://github.com/bobsmith"
+        },
+        {
+          "name": "Carol White",
+          "profession": "UI/UX Designer",
+          "location": "Sydney - Australia",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/carolwhite",
+          "dribbbleUrl": "https://dribbble.com/carolwhite",
+          "githubUrl": "https://github.com/carolwhite"
+        },
+        {
+          "name": "David Brown",
+          "profession": "Systems Analyst",
+          "location": "Toronto - Canada",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/davidbrown",
+          "dribbbleUrl": "https://dribbble.com/davidbrown",
+          "githubUrl": "https://github.com/davidbrown"
+        },
+        {
+          "name": "Emily Clark",
+          "profession": "DevOps Engineer",
+          "location": "Berlin - Germany",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/emilyclark",
+          "dribbbleUrl": "https://dribbble.com/emilyclark",
+          "githubUrl": "https://github.com/emilyclark"
+        },
+        {
+          "name": "Frank Adams",
+          "profession": "Database Administrator",
+          "location": "Paris - France",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/frankadams",
+          "dribbbleUrl": "https://dribbble.com/frankadams",
+          "githubUrl": "https://github.com/frankadams"
+        },
+        {
+          "name": "Grace Lee",
+          "profession": "Machine Learning Engineer",
+          "location": "Amsterdam - Netherlands",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/gracelee",
+          "dribbbleUrl": "https://dribbble.com/gracelee",
+          "githubUrl": "https://github.com/gracelee"
+        },
+        {
+          "name": "Henry Wilson",
+          "profession": "Cybersecurity Specialist",
+          "location": "Tokyo - Japan",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/henrywilson",
+          "dribbbleUrl": "https://dribbble.com/henrywilson",
+          "githubUrl": "https://github.com/henrywilson"
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "id": "math",
+      "staff": [
+        {
+          "name": "Dr. Alice Smith",
+          "profession": "Mathematics Professor",
+          "location": "Cambridge - UK",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/alicesmith",
+          "dribbbleUrl": "https://dribbble.com/alicesmith",
+          "githubUrl": "https://github.com/alicesmith"
+        },
+        {
+          "name": "Bob Johnson",
+          "profession": "Math Researcher",
+          "location": "Toronto - Canada",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/bobjohnson",
+          "dribbbleUrl": "https://dribbble.com/bobjohnson",
+          "githubUrl": "https://github.com/bobjohnson"
+        },
+        {
+          "name": "Carol Davis",
+          "profession": "Statistical Analyst",
+          "location": "New York - USA",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/caroldavis",
+          "dribbbleUrl": "https://dribbble.com/caroldavis",
+          "githubUrl": "https://github.com/caroldavis"
+        },
+        {
+          "name": "David Evans",
+          "profession": "Mathematical Modeler",
+          "location": "Los Angeles - USA",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/davidevans",
+          "dribbbleUrl": "https://dribbble.com/davidevans",
+          "githubUrl": "https://github.com/davidevans"
+        },
+        {
+          "name": "Emily Martinez",
+          "profession": "Operations Research Analyst",
+          "location": "Chicago - USA",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/emilymartinez",
+          "dribbbleUrl": "https://dribbble.com/emilymartinez",
+          "githubUrl": "https://github.com/emilymartinez"
+        },
+        {
+          "name": "Frank Garcia",
+          "profession": "Mathematics Educator",
+          "location": "Houston - USA",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/frankgarcia",
+          "dribbbleUrl": "https://dribbble.com/frankgarcia",
+          "githubUrl": "https://github.com/frankgarcia"
+        },
+        {
+          "name": "Grace Martinez",
+          "profession": "Applied Mathematician",
+          "location": "Philadelphia - USA",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/gracemartinez",
+          "dribbbleUrl": "https://dribbble.com/gracemartinez",
+          "githubUrl": "https://github.com/gracemartinez"
+        },
+        {
+          "name": "Henry Lee",
+          "profession": "Quantitative Analyst",
+          "location": "San Diego - USA",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/henrylee",
+          "dribbbleUrl": "https://dribbble.com/henrylee",
+          "githubUrl": "https://github.com/henrylee"
+        },
+        {
+          "name": "Isabella Taylor",
+          "profession": "Mathematics Researcher",
+          "location": "San Francisco - USA",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/isabellataylor",
+          "dribbbleUrl": "https://dribbble.com/isabellataylor",
+          "githubUrl": "https://github.com/isabellataylor"
+        }
+      ]
+    },
+    {
+      "name": "Physics",
+      "id": "phy",
+      "staff": [
+        {
+          "name": "Dr. Laura Brown",
+          "profession": "Physics Professor",
+          "location": "Paris - France",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/laurabrown",
+          "dribbbleUrl": "https://dribbble.com/laurabrown",
+          "githubUrl": "https://github.com/laurabrown"
+        },
+        {
+          "name": "David Green",
+          "profession": "Quantum Physicist",
+          "location": "Berlin - Germany",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/davidgreen",
+          "dribbbleUrl": "https://dribbble.com/davidgreen",
+          "githubUrl": "https://github.com/davidgreen"
+        },
+        {
+          "name": "Emily Wilson",
+          "profession": "Astrophysicist",
+          "location": "New York - USA",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/emilywilson",
+          "dribbbleUrl": "https://dribbble.com/emilywilson",
+          "githubUrl": "https://github.com/emilywilson"
+        },
+        {
+          "name": "Frank Lewis",
+          "profession": "Nuclear Physicist",
+          "location": "London - UK",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/franklewis",
+          "dribbbleUrl": "https://dribbble.com/franklewis",
+          "githubUrl": "https://github.com/franklewis"
+        },
+        {
+          "name": "Grace Adams",
+          "profession": "Condensed Matter Physicist",
+          "location": "Toronto - Canada",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/graceadams",
+          "dribbbleUrl": "https://dribbble.com/graceadams",
+          "githubUrl": "https://github.com/graceadams"
+        },
+        {
+          "name": "Henry Thompson",
+          "profession": "Experimental Physicist",
+          "location": "Sydney - Australia",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/henrythompson",
+          "dribbbleUrl": "https://dribbble.com/henrythompson",
+          "githubUrl": "https://github.com/henrythompson"
+        },
+        {
+          "name": "Isabella Moore",
+          "profession": "Theoretical Physicist",
+          "location": "San Francisco - USA",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/isabellamoore",
+          "dribbbleUrl": "https://dribbble.com/isabellamoore",
+          "githubUrl": "https://github.com/isabellamoore"
+        },
+        {
+          "name": "James Robinson",
+          "profession": "Optical Physicist",
+          "location": "Chicago - USA",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/jamesrobinson",
+          "dribbbleUrl": "https://dribbble.com/jamesrobinson",
+          "githubUrl": "https://github.com/jamesrobinson"
+        },
+        {
+          "name": "Katherine White",
+          "profession": "Plasma Physicist",
+          "location": "Paris - France",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/katherinewhite",
+          "dribbbleUrl": "https://dribbble.com/katherinewhite",
+          "githubUrl": "https://github.com/katherinewhite"
+        },
+        {
+          "name": "Liam Harris",
+          "profession": "Biophysicist",
+          "location": "Tokyo - Japan",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/liamharris",
+          "dribbbleUrl": "https://dribbble.com/liamharris",
+          "githubUrl": "https://github.com/liamharris"
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "id": "che",
+      "staff": [
+        {
+          "name": "Emily White",
+          "profession": "Chemistry Lecturer",
+          "location": "Sydney - Australia",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/emilywhite",
+          "dribbbleUrl": "https://dribbble.com/emilywhite",
+          "githubUrl": "https://github.com/emilywhite"
+        },
+        {
+          "name": "Michael Black",
+          "profession": "Organic Chemist",
+          "location": "San Francisco - USA",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/michaelblack",
+          "dribbbleUrl": "https://dribbble.com/michaelblack",
+          "githubUrl": "https://github.com/michaelblack"
+        },
+        {
+          "name": "Olivia Green",
+          "profession": "Inorganic Chemist",
+          "location": "Toronto - Canada",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/oliviagreen",
+          "dribbbleUrl": "https://dribbble.com/oliviagreen",
+          "githubUrl": "https://github.com/oliviagreen"
+        },
+        {
+          "name": "Peter Davis",
+          "profession": "Physical Chemist",
+          "location": "New York - USA",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/peterdavis",
+          "dribbbleUrl": "https://dribbble.com/peterdavis",
+          "githubUrl": "https://github.com/peterdavis"
+        },
+        {
+          "name": "Quinn Harris",
+          "profession": "Biochemist",
+          "location": "London - UK",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/quinnharris",
+          "dribbbleUrl": "https://dribbble.com/quinnharris",
+          "githubUrl": "https://github.com/quinnharris"
+        },
+        {
+          "name": "Rachel Lee",
+          "profession": "Medicinal Chemist",
+          "location": "Berlin - Germany",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/rachelee",
+          "dribbbleUrl": "https://dribbble.com/rachelee",
+          "githubUrl": "https://github.com/rachelee"
+        },
+        {
+          "name": "Samuel Wilson",
+          "profession": "Theoretical Chemist",
+          "location": "Paris - France",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/samuelwilson",
+          "dribbbleUrl": "https://dribbble.com/samuelwilson",
+          "githubUrl": "https://github.com/samuelwilson"
+        },
+        {
+          "name": "Tina Taylor",
+          "profession": "Environmental Chemist",
+          "location": "Chicago - USA",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/tinataylor",
+          "dribbbleUrl": "https://dribbble.com/tinataylor",
+          "githubUrl": "https://github.com/tinataylor"
+        },
+        {
+          "name": "Uma Patel",
+          "profession": "Analytical Chemist",
+          "location": "San Francisco - USA",
+          "profileImg": "profile.png",
+          "linkedinUrl": "https://www.linkedin.com/in/umapatel",
+          "dribbbleUrl": "https://dribbble.com/umapatel",
+          "githubUrl": "https://github.com/umapatel"
+        },
+        {
+          "name": "Victor Adams",
+          "profession": "Computational Chemist",
+          "location": "Toronto - Canada",
+          "profileImg": "pr1.jpeg",
+          "linkedinUrl": "https://www.linkedin.com/in/victoradams",
+          "dribbbleUrl": "https://dribbble.com/victoradams",
+          "githubUrl": "https://github.com/victoradams"
+        }
+      ]
+    }
+  ]
+}

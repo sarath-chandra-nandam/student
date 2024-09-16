@@ -1,0 +1,29 @@
+.upcoming-exams-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.exam-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.exam-table th, .exam-table td {
+  padding: 8px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.exam-table th {
+  background-color: #f2f2f2;
+}
+
+.exam-table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

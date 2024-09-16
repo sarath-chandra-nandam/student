@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.placements-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    /* background: url('../../Assets//placements.jpg');  */
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    padding: 20px;
+}
+
+.placements-container {
+    width: 80%;
+    max-width: 1200px;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.placements-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.placement-card {
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    padding: 15px;
+    width: 100%;
+    max-width: 350px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.placement-card h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.placement-card p {
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+.apply-button {
+    display: inline-block;
+    background: #fff;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    text-align: center;
+    transition: background 0.3s, color 0.3s;
+}
+
+.apply-button:hover {
+    background: #000;
+    color: #fff;
+}
